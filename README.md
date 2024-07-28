@@ -5,6 +5,7 @@ The model achieved an accuracy of 0.622 on the public leaderboard
 
 ## ETL Processes
  a. The first process was to create a chroma-db for all the rel18 documents.
+ 
   i. The entire rel18 documents was used to build the chroma db
   ii. The embedding model used was the "BAAI/bge-small-en-v1.5" from hugging face
   iii. A chunk size of 128 and a chunk overlap of 20 was used
