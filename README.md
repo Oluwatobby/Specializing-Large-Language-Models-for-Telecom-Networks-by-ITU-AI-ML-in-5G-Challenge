@@ -90,3 +90,7 @@ The answers from the 4 models were combined using a voting technique. The answer
 ## Performance and Metrics
 
 The fine-tuned model achieved a score of 0.609289617 on the public leaderboard and a score of 0.622 on the private leaderboard
+
+## Final notes
+
+The folder has all 4 trained models, and the downloaded notebooks from Kaggle. 
