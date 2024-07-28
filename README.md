@@ -84,7 +84,7 @@ The four models are available in the zipped folder.
 
 ## Inference
 
-The answers from the 4 models were combined using a voting technique. The answer with the highest vote is chosen and if this is not available default to the answer from model 1.
+The answers from the 4 models were combined using a voting technique. The answer with the highest vote is chosen and if this is not available, default to the answer from model 1.
 
 
 ## Performance and Metrics
